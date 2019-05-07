@@ -1,0 +1,84 @@
+{
+  "general": {
+    "404": {
+      "title": "やれやれ！",
+      "tips": "申し訳ございませんが、お探しのページが見つかりません。",
+      "continue_shopping": "買い物を続ける"
+    },
+    "product": {
+      "quick_view": "クイックビュー",
+      "sold_out": "売り切れ"
+    },
+    "newsletter_form": {
+      "email_address_empty_warning": "メールアドレスを入力してください。",
+      "email_address_invalid_warning": "有効なメールアドレスを入力してください。",
+      "email_placeholder": "Eメール"
+    },
+    "footer": {
+      "email_address_empty_warning": "メールアドレスを入力してください。",
+      "email_address_invalid_warning": "有効なメールアドレスを入力してください。",
+      "confirmation": "ご購読いただき、ありがとうございました！ お客様のE-メールにメッセージをお送りします。",
+      "email_placeholder": "Eメール",
+      "submit": "購読する",
+      "follow_us": "フォローする",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "twitter": "Twitter"
+    }
+  },
+  "navigation": {
+    "general": {
+      "login": "ログイン",
+      "register": "登録",
+      "my_account": "マイアカウント",
+      "my_orders": "注文履歴",
+      "address_book": "アドレス帳",
+      "log_out": "ログアウト",
+      "search_placeholder": "検索..."
+    }
+  },
+  "product": {
+    "product_detail": {
+      "sold": "{{ count }}売上",
+      "off": "{{ count }}%OFF",
+      "qty": "数量",
+      "product_description": "製品情報",
+      "add_to_cart": "商品をカートに入れる",
+      "sold_out": "売り切れ",
+      "buy_now": "今すぐ購入",
+      "added_to_cart_successfully": "カートに追加しました",
+      "view_product_detail": "製品詳細の表示",
+      "in_stock": "{{ count }}在庫",
+      "related_product": "おすすめ商品",
+      "add_to_cart_tips": "カートに追加しました。",
+      "view_cart": "カートを確認する",
+      "proceed_to_checkout": "決算する"
+    }
+  },
+  "collection": {
+    "collection_detail": {
+      "products": "{{ count }}個の製品",
+      "recommend": "おすすめ",
+      "low_to_high": "安い順",
+      "high_to_low": "高い順",
+      "best_selling": "売れ行きがよい",
+      "newest": "新着情報",
+      "coming_soon": "近日多く新製品を発売する予定です。しばらくしてからもう一度ご覧ください。",
+      "continue_shopping": "買い物を続ける",
+      "sort_by": "ソート基準",
+      "items_per_page": "1ページあたり{{ count }}個の商品",
+      "prev": "前のページ",
+      "next": "次のページ",
+      "filter_by": "ソート",
+      "confirm": "確認",
+      "clear_all": "リセット"
+    }
+  },
+  "search": {
+    "title": "検索結果",
+    "search_button": "検索",
+    "results_tips": "<span class='dj_skin_product_text search__key'>“{{ key }}”</span>検索結果<span class='search__count'>{{ count }}</span>件",
+    "no_results": "<span class='dj_skin_product_text search__key'>“{{ key }}”</span> に一致する商品は見つかりませんでした。",
+    "input_to_search": "キーワードを入力して検索..."
+  }
+}

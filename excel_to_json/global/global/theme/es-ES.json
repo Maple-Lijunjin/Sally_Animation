@@ -1,0 +1,84 @@
+{
+  "general": {
+    "404": {
+      "title": "¡Ay!",
+      "tips": "Perdón, la página que usted busca no se puede encontrar.",
+      "continue_shopping": "Seguir comprando"
+    },
+    "product": {
+      "quick_view": "Vistazo rápido",
+      "sold_out": "Agotado"
+    },
+    "newsletter_form": {
+      "email_address_empty_warning": "Por favor introduzca su dirección de correo electrónico",
+      "email_address_invalid_warning": "Por favor introduzca la dirección de correo electrónico válida",
+      "email_placeholder": "Correo electrónico"
+    },
+    "footer": {
+      "email_address_empty_warning": "Por favor introduzca su dirección de correo electrónico",
+      "email_address_invalid_warning": "Por favor introduzca la dirección de correo electrónico válida",
+      "confirmation": "¡Gracias por su suscripción! Enviaremos mensajes a su correo electrónico.",
+      "email_placeholder": "Correo electrónico",
+      "submit": "Suscribirse",
+      "follow_us": "Seguir a nosotros",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "twitter": "Twitter"
+    }
+  },
+  "navigation": {
+    "general": {
+      "login": "Iniciar sesión",
+      "register": "Registrarse",
+      "my_account": "Mi cuenta",
+      "my_orders": "Mis pedidos",
+      "address_book": "Libreta de direcciones",
+      "log_out": "Cerrar sesión",
+      "search_placeholder": "Buscar…"
+    }
+  },
+  "product": {
+    "product_detail": {
+      "sold": "{{ count }} Ventas",
+      "off": "{{ count }}% OFF",
+      "qty": "Cantidad",
+      "product_description": "Descripción de Artículo",
+      "add_to_cart": "Añadir a la cesta",
+      "sold_out": "Agotado",
+      "buy_now": "Comprar ya",
+      "added_to_cart_successfully": "Añadido a la cesta exitosamente",
+      "view_product_detail": "Ver detalles del Artículo",
+      "in_stock": "{{ count }}Disponibles",
+      "related_product": "Artículos recomendados",
+      "add_to_cart_tips": "Añadido a la cesta",
+      "view_cart": "Ver la cesta",
+      "proceed_to_checkout": "Pagar"
+    }
+  },
+  "collection": {
+    "collection_detail": {
+      "products": "{{ count }}Artículos",
+      "recommend": "Recomendado",
+      "low_to_high": "Menor precio",
+      "high_to_low": "Mayor precio",
+      "best_selling": "Los más vendidos",
+      "newest": "Los más nuevos",
+      "coming_soon": "Presentarán más nuevos Artículos, por favor visite más tarde",
+      "continue_shopping": "Seguir comprando",
+      "sort_by": "Ordenar por",
+      "items_per_page": "Cada página{{ count }}Artículos",
+      "prev": "Página anterior",
+      "next": "Página siguiente",
+      "filter_by": "Filtro",
+      "confirm": "Confirmar",
+      "clear_all": "Limpiar"
+    }
+  },
+  "search": {
+    "title": "Resultado de la búsqueda",
+    "search_button": "Buscar",
+    "results_tips": "<span class='dj_skin_product_text search__key'>“{{ key }}”</span>Encontrar<span class='search__count'>{{ count }}</span>Resultados",
+    "no_results": "Su búsqueda<span class='dj_skin_product_text search__key'>“{{ key }}”</span>no tiene resultados.",
+    "input_to_search": "Introduzca la palabra clave"
+  }
+}
