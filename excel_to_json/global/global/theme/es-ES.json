@@ -10,12 +10,12 @@
       "sold_out": "Agotado"
     },
     "newsletter_form": {
-      "email_address_empty_warning": "Por favor introduzca su dirección de correo electrónico",
+      "email_address_empty_warning": "Introduzca su email",
       "email_address_invalid_warning": "Por favor introduzca la dirección de correo electrónico válida",
       "email_placeholder": "Correo electrónico"
     },
     "footer": {
-      "email_address_empty_warning": "Por favor introduzca su dirección de correo electrónico",
+      "email_address_empty_warning": "Introduzca su email",
       "email_address_invalid_warning": "Por favor introduzca la dirección de correo electrónico válida",
       "confirmation": "¡Gracias por su suscripción! Enviaremos mensajes a su correo electrónico.",
       "email_placeholder": "Correo electrónico",

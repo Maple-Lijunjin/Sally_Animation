@@ -15,7 +15,7 @@
       "email_placeholder": "E-mail"
     },
     "footer": {
-      "email_address_empty_warning": "Introduza o seu endereço de e-mail",
+      "email_address_empty_warning": "Inserir o email",
       "email_address_invalid_warning": "Introduza um endereço de e-mail válido",
       "confirmation": "Obrigada pela sua subscrição. Enviaremos mensagens para o seu e-mail.",
       "email_placeholder": "E-mail",
@@ -43,7 +43,7 @@
       "off": "{{ count }}% OFF",
       "qty": "Quantidade",
       "product_description": "Descrição do produto",
-      "add_to_cart": "Adiciona ao carrinho de compras",
+      "add_to_cart": "Adicionar ao carrinho",
       "sold_out": "Esgotado",
       "buy_now": "Compra imediata",
       "added_to_cart_successfully": "Adicionar ao carrinho de compras com sucesso",

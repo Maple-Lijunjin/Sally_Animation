@@ -276,7 +276,7 @@
       "add_new_address": "Add New Address"
     },
     "delete_address": {
-      "delete": "Delete\n",
+      "delete": "Delete",
       "delete_address": "Are you sure you wish to delete this address?",
       "no": "No",
       "yes": "Yes"

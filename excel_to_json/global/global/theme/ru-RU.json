@@ -63,7 +63,7 @@
       "high_to_low": "По цене↓",
       "best_selling": "Хиты продаж",
       "newest": "Новинки",
-      "coming_soon": "Скоро в продажу поступит много новинок,пожалуйста,зайдите \nпозже",
+      "coming_soon": "Скоро в продажу поступит много новинок,пожалуйста,зайдите позже",
       "continue_shopping": "Продолжить покупки",
       "sort_by": "Порядок отображения товаров",
       "items_per_page": "В каждой странице {{ count }} товаров",
@@ -77,8 +77,8 @@
   "search": {
     "title": "Результаты поиска",
     "search_button": "Поиск",
-    "results_tips": "Всего<span \nclass='search__count'>{{ count }}</span>\nрезультатов в поиске <span class='dj_skin_product_text \nsearch__key'>“{{ key }}”</span>",
-    "no_results": "Нет результатов для поиска <span class='dj_skin\n_product_text search__key'>“{{ key }}”</span>",
+    "results_tips": "Всего<span class='search__count'>{{ count }}</span>результатов в поиске <span class='dj_skin_product_text search__key'>“{{ key }}”</span>",
+    "no_results": "Нет результатов для поиска <span class='dj_skin_product_text search__key'>“{{ key }}”</span>",
     "input_to_search": "Введите ключевые слова в строку поиска"
   }
 }
