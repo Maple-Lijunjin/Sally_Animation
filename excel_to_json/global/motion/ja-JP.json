@@ -1,0 +1,134 @@
+{
+  "general": {
+    "404": {
+      "title": "404ページが存在しません",
+      "subtext_html": "<p>申し訳ございませんが、お探しのページが見つかりません。</p><p><a href=\"/\">買い物を続ける</a></p>"
+    },
+    "accessibility": {
+      "skip_to_content": "コンテンツへジャンプします",
+      "close_modal": "閉じる (esc)",
+      "close": "閉じる",
+      "learn_more": "もっと詳しく"
+    },
+    "meta": {
+      "tags": "\"{{ tags }}\"にマークします",
+      "page": "第{{ page }}ページ\n"
+    },
+    "pagination": {
+      "previous": "前のページ",
+      "next": "次のページ"
+    },
+    "social": {
+      "share_on_facebook": "Share",
+      "share_on_twitter": "Tweet",
+      "share_on_pinterest": "Pin it",
+      "alt_text": {
+        "share_on_facebook": "Share on Facebook",
+        "share_on_twitter": "Tweet on Twitter",
+        "share_on_pinterest": "Pin on Pinterest"
+      }
+    },
+    "newsletter_form": {
+      "newsletter_email": "メールアドレスを入力してください。",
+      "newsletter_confirmation": "ご購読いただき、ありがとうございました！ お客様のE-メールにメッセージをお送りします。",
+      "submit": "購読する",
+      "email_address_empty_warning": "メールアドレスを入力してください。",
+      "email_address_invalid_warning": "有効なメールアドレスを入力してください。"
+    },
+    "search": {
+      "no_results_html": "<span class='dj_skin_product_text search__key'>\"{{ terms }}\"</span> に一致する商品は見つかりませんでした。",
+      "results_for_html": "\"{{ terms }}\"の検索結果は次のとおりです：",
+      "title": "検索",
+      "placeholder": "私たちの店を検索してください",
+      "submit": "検索",
+      "result_count": {
+        "one": "{{ count }}件の結果があります",
+        "other": "{{ count }}件の結果があります"
+      }
+    },
+    "drawers": {
+      "navigation": "サイトナビゲーション",
+      "close_menu": "メニューを閉じます",
+      "expand_submenu": "サブメニューを展開します",
+      "collapse_submenu": "サブメニューを折り畳みます"
+    }
+  },
+  "collections": {
+    "general": {
+      "catalog_title": "目次",
+      "all_of_collection": "全て見ます",
+      "view_all_products_html": "すべての<br> {{ count }}件の商品レビューを見ます",
+      "see_more": "もっと表示します",
+      "see_less": "少なく表示します",
+      "no_matches": "申し訳ありませんが、このアルバムに商品はありません。"
+    },
+    "sorting": {
+      "title": "並べ替え",
+      "featured": "推薦",
+      "price_ascending": "低価格から高価格まで",
+      "price_descending": "高価格から低価額まで",
+      "newest": "新発売"
+    },
+    "filters": {
+      "title_tags": "商品を選択します",
+      "all_tags": "すべての商品"
+    }
+  },
+  "products": {
+    "general": {
+      "save_html": "{{ saved_amount }}円節約します",
+      "collection_return": "戻る{{ collection }}",
+      "next_product": "次: {{ title }}",
+      "sale_price": "売価",
+      "regular_price": "元の価格",
+      "from_text_html": "{{ price }}円から",
+      "related_products": "売り切れ"
+    },
+    "product": {
+      "stock_label": "{{ count }}個の在庫があります",
+      "sold_out": "数量",
+      "unavailable": "商品をカートに入れる",
+      "quantity": "数量",
+      "add_to_cart": "今すぐ購入",
+      "preorder": "カートに追加しました",
+      "buy_now": "今すぐ購入",
+      "added_to_cart_successfully": "カートに追加しました"
+    }
+  },
+  "home_page": {
+    "onboarding": {
+      "product_title": "商品の例",
+      "product_description": "このエリアはあなたの商品の詳しい情報を説明するのに使います。顧客に製品の外観、雰囲気、スタイルを伝えます。まだ商品の色、素材、サイズ、生産地などの情報も追加できます。",
+      "collection_title": "シリーズ商品の例",
+      "no_content": "このセクションに今の段階ではコンテンツが含まれていません。ツールバーを使ってコンテンツを追加します。"
+    }
+  },
+  "layout": {
+    "footer": {
+      "social_platform": "{{ platform }}の{{ name }}"
+    }
+  },
+  "sections": {
+    "map": {
+      "get_directions": "リンクを取得します",
+      "address_error": "住所検索エラー",
+      "address_no_results": "住所が見つかりませんでした",
+      "address_query_limit_html": "Google APIの使用制限を超えました。 <a href=\"https://developers.google.com/maps/premium/usage-limits\">高級なプログラム</a>にアップグレードすることを検討してください。",
+      "auth_error_html": "Googleマップアカウントに問題があります。 <a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\"> JavaScript API </a>と<a href = \"https://developers.google .com / maps / documentation / geocoding / get-api-key \">API </a>ジオコーディングのアプリ権限を作成して使用します。"
+    }
+  },
+  "date_formats": {
+    "month_day_year": "％B％d，％Y"
+  },
+  "navigation": {
+    "general": {
+      "login": "ログイン",
+      "register": "登録",
+      "my_account": "マイアカウント",
+      "my_orders": "注文履歴",
+      "address_book": "アドレス帳",
+      "log_out": "ログアウト",
+      "search_placeholder": "検索..."
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "node-xlsx": "0.12.1",
+    "excel-as-json": "2.0.2"
+  }
+}
