@@ -1,0 +1,55 @@
+<html><head><link href="./assets/css/index.css" rel="stylesheet" type="text/css"><style>@keyframes myanimation {
+        from {
+          background-color:skyblue;
+        }
+        to {
+          background-color: orange;
+        }
+      }
+      @-o-keyframes myanimation {
+        from {
+          background-color: skyblue;
+        }
+        to {
+          background-color: orange;
+        }
+      }
+      @-moz-keyframes myanimation {
+        from {
+          background-color: skyblue;
+        }
+        to {
+          background-color: orange;
+        }
+      }
+      .animation {
+        width: 200px;
+        height: 200px;
+        background-color: skyblue;
+        animation: myanimation 3s;
+        -webkit-animation: myanimation 3s;
+      }
+      @keyframes myicon{
+        25% {
+          background-position: 0 -30px;
+        }
+        50% {
+          background-position: 0 -45px;
+        }
+        75% {
+          background-position: 0 -30px;
+        }
+        to {
+          background-position: 0 0;
+        }
+      }
+      .icon {
+        width: 100px;
+        height: 100px;
+        background-color: pink;
+        background: url(./assets/img/shop_icon.svg) no-repeat;
+        /* background-position: 0 0; */
+      }
+      .icon:hover {
+        animation: myicon 3s;
+      }</style></head><body><div class="animation"></div><div class="icon"></div></body></html>
