@@ -1,0 +1,84 @@
+{
+  "general": {
+    "404": {
+      "title": "Ah",
+      "tips": "Desculpe, a página que procura não tenha sido encontrada.",
+      "continue_shopping": "Continuar as compras"
+    },
+    "product": {
+      "quick_view": "Navegação rápida",
+      "sold_out": "Esgotado"
+    },
+    "newsletter_form": {
+      "email_address_empty_warning": "Introduza o seu endereço de e-mail",
+      "email_address_invalid_warning": "Introduza um endereço de e-mail válido",
+      "email_placeholder": "E-mail"
+    },
+    "footer": {
+      "email_address_empty_warning": "Inserir o email",
+      "email_address_invalid_warning": "Introduza um endereço de e-mail válido",
+      "confirmation": "Obrigada pela sua subscrição. Enviaremos mensagens para o seu e-mail.",
+      "email_placeholder": "E-mail",
+      "submit": "Subscrever",
+      "follow_us": "Siga-nos",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "twitter": "Twitter"
+    }
+  },
+  "navigation": {
+    "general": {
+      "login": "Login",
+      "register": "Registra-se",
+      "my_account": "Minha conta",
+      "my_orders": "Minha encomenda",
+      "address_book": "Lista de endereços",
+      "log_out": "Logout",
+      "search_placeholder": "Pesquisar"
+    }
+  },
+  "product": {
+    "product_detail": {
+      "sold": "{{ count }} volume das vendas",
+      "off": "{{ count }}% OFF",
+      "qty": "Quantidade",
+      "product_description": "Descrição do produto",
+      "add_to_cart": "Adicionar ao carrinho",
+      "sold_out": "Esgotado",
+      "buy_now": "Compra imediata",
+      "added_to_cart_successfully": "Adicionar ao carrinho de compras com sucesso",
+      "view_product_detail": "Ver detalhes do produto",
+      "in_stock": "{{ count }}Inventário",
+      "related_product": "Mercadorias recomendadas",
+      "add_to_cart_tips": "Foi adicionado ao carrinho de compras!",
+      "view_cart": "Verifique o carrinho de Compras.",
+      "proceed_to_checkout": "Pagar a conta"
+    }
+  },
+  "collection": {
+    "collection_detail": {
+      "products": "{{ count }}produtos",
+      "recommend": "Recomendação",
+      "low_to_high": "Preço, de baixo a alto",
+      "high_to_low": "Preço, de alto a baixo",
+      "best_selling": "Mais vendidos",
+      "newest": "Lançamentos novos",
+      "coming_soon": "Mais novos produtos estão prestes a ser lançados.Volte mais tarde, por favor.",
+      "continue_shopping": "Continua a fazer compras",
+      "sort_by": "Modo de ordenação",
+      "items_per_page": "{{ count }}Produtos cada página",
+      "prev": "Página anterior",
+      "next": "Página seguinte",
+      "filter_by": "Filtrar",
+      "confirm": "Confirmar",
+      "clear_all": "Reinicializar"
+    }
+  },
+  "search": {
+    "title": "Resultados da pesquisa",
+    "search_button": "Pesquisar",
+    "results_tips": "<span class='dj_skin_product_text search__key'>“{{ key }}”</span>encontrou<span class='search__count'>{{ count }}</span>resultados",
+    "no_results": "<span class='dj_skin_product_text search__key'>“{{ key }}”</span>que você procurou não tem resultado",
+    "input_to_search": "Indique a palavra-chave para procurar …"
+  }
+}

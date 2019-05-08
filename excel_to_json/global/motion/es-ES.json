@@ -1,0 +1,134 @@
+{
+  "general": {
+    "404": {
+      "title": "404 Página no encontrada",
+      "subtext_html": "<p>Perdón, la página que usted busca no se puede encontrar.</p><p><a href=\"/\">Seguir comprando</a></p>"
+    },
+    "accessibility": {
+      "skip_to_content": "Saltar al contenido",
+      "close_modal": "Cerrar (esc)",
+      "close": "Cerrar",
+      "learn_more": "Conocer más"
+    },
+    "meta": {
+      "tags": "Marcar como \"{{ tags }}\"",
+      "page": "Página {{ page }}"
+    },
+    "pagination": {
+      "previous": "Página anterior",
+      "next": "Página siguiente"
+    },
+    "social": {
+      "share_on_facebook": "Share",
+      "share_on_twitter": "Tweet",
+      "share_on_pinterest": "Pin it",
+      "alt_text": {
+        "share_on_facebook": "Share on Facebook",
+        "share_on_twitter": "Tweet on Twitter",
+        "share_on_pinterest": "Pin on Pinterest"
+      }
+    },
+    "newsletter_form": {
+      "newsletter_email": "Por favor introduzca su dirección de correo electrónico",
+      "newsletter_confirmation": "¡Gracias por su suscripción! Enviaremos mensajes a su correo electrónico.",
+      "submit": "Suscribirse",
+      "email_address_empty_warning": "Por favor introduzca su dirección de correo electrónico",
+      "email_address_invalid_warning": "Por favor introduzca la dirección de correo electrónico válida"
+    },
+    "search": {
+      "no_results_html": "Su búsqueda<span class='dj_skin_product_text search__key'>\"{{ terms }}\"</span>no tiene resultados.",
+      "results_for_html": "A continuación, son los resultados de búsqueda para \"{{ terms }}\":",
+      "title": "Buscar",
+      "placeholder": "Buscar en nuestra tienda",
+      "submit": "Buscar",
+      "result_count": {
+        "one": "{{ count }} resultado",
+        "other": "{{ count }} resultado (s)"
+      }
+    },
+    "drawers": {
+      "navigation": "Navegabilidad Web",
+      "close_menu": "Cerrar el menú",
+      "expand_submenu": "Desplegar el submenú",
+      "collapse_submenu": "Plegar el submenú"
+    }
+  },
+  "collections": {
+    "general": {
+      "catalog_title": "Directorio",
+      "all_of_collection": "Ver todo",
+      "view_all_products_html": "Ver todos <br>{{ count }} artículo (s)",
+      "see_more": "Mostrar más",
+      "see_less": "Mostrar menos",
+      "no_matches": "Lo sentimos, no hay artículos en este álbum."
+    },
+    "sorting": {
+      "title": "Ordenar",
+      "featured": "Recomendado",
+      "price_ascending": "Precio, de bajo a alto",
+      "price_descending": "Precio, de alto a bajo",
+      "newest": "Recién llegado"
+    },
+    "filters": {
+      "title_tags": "Filtrar",
+      "all_tags": "Todos los artículos"
+    }
+  },
+  "products": {
+    "general": {
+      "save_html": "Ahorrar {{ saved_amount }}",
+      "collection_return": "Regresar a {{ collection }}",
+      "next_product": "Siguiente: {{ title }}",
+      "sale_price": "Precio",
+      "regular_price": "Precio original",
+      "from_text_html": "Desde {{ price }}",
+      "related_products": "Agotado"
+    },
+    "product": {
+      "stock_label": "{{ count }} inventario (s)",
+      "sold_out": "Agotado",
+      "unavailable": "Añadir a la cesta",
+      "quantity": "Cantidad",
+      "add_to_cart": "Añadir a la cesta",
+      "preorder": "Comprar por adelantado",
+      "buy_now": "Comprar ya",
+      "added_to_cart_successfully": "Añadido a la cesta exitosamente"
+    }
+  },
+  "home_page": {
+    "onboarding": {
+      "product_title": "Artículo de muestra",
+      "product_description": "Esta área se utiliza para describir los detalles de su artículo. Muestre el aspecto, el sentimiento y el estilo del producto. También puede añadir la información como color, material, tamaño y lugar de origen.",
+      "collection_title": "Colección de muestra",
+      "no_content": "Esta área no contiene ningún contenido ahora. Utilice la barra de herramienta para agregar contenido."
+    }
+  },
+  "layout": {
+    "footer": {
+      "social_platform": "{{ name }} de {{ platform }}"
+    }
+  },
+  "sections": {
+    "map": {
+      "get_directions": "Obtener rutas",
+      "address_error": "Error de encontrar direcciones",
+      "address_no_results": "No encontré esta dirección",
+      "address_query_limit_html": "Ha superado el límite de uso de API de Google. Considere actualizar al <a href=\"https://developers.google.com/maps/premium/usage-limits\">plan avanzado</a>.",
+      "auth_error_html": "Descubrió un problema con su cuenta de Google Maps. Cree y habilite <a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">JavaScript API</a>y el permiso de la app de <a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\">API de geocodificación</a>."
+    }
+  },
+  "date_formats": {
+    "month_day_year": "％B％d，％Y"
+  },
+  "navigation": {
+    "general": {
+      "login": "Iniciar sesión",
+      "register": "Registrarse",
+      "my_account": "Mi cuenta",
+      "my_orders": "Mis pedidos",
+      "address_book": "Libreta de direcciones",
+      "log_out": "Cerrar sesión",
+      "search_placeholder": "Buscar…"
+    }
+  }
+}

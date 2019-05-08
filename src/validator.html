@@ -1,0 +1,48 @@
+<html>
+
+<head></head>
+
+<body>
+  <form id="myForm" method="get" action="">
+    <label for="firstname">Username</label>
+    <input id="firstname" type="text" />
+    <label for="password">Password</label>
+    <input id="password" type="password" />
+    <label for="repassword">Confirm Password</label>
+    <input id="repassword" type="password" />
+    <input type="submit" value="submit" />
+  </form>
+  <script src="http://static.runoob.com/assets/jquery-validation-1.14.0/lib/jquery.js"></script>
+  <script src="http://static.runoob.com/assets/jquery-validation-1.14.0/dist/jquery.validate.min.js"></script>
+  <script src="http://static.runoob.com/assets/jquery-validation-1.14.0/dist/localization/messages_zh.js"></script>
+  <script>
+    $.validator.setDefaults({
+      submitHandler: function () {
+        alert("提交事件!");
+      }
+    });
+    $().ready(function () {
+      $("#myForm").validate({
+        rules: {
+          firstname: "required",
+          password: {
+            required: true,
+            minlength: 5,
+          },
+          repassword: {
+            required: true,
+            minlength: 5,
+            equalTo: "#password"
+          }
+        },
+        messages: {
+          firstname: "请输入用户名",
+          password: "请输入合法密码",
+          repassword: "两次输入密码必须一致"
+        }
+      })
+    })
+  </script>
+</body>
+
+</html>

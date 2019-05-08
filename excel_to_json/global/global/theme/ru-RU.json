@@ -1,0 +1,84 @@
+{
+  "general": {
+    "404": {
+      "title": "404-ая ошибка",
+      "tips": "Извините,страница не найдена.",
+      "continue_shopping": "Продолжить покупки"
+    },
+    "product": {
+      "quick_view": "Быстрый просмотр",
+      "sold_out": "Распродано"
+    },
+    "newsletter_form": {
+      "email_address_empty_warning": "Введите вашу эл. почту.",
+      "email_address_invalid_warning": "Введите действительный адрес электронной почты.",
+      "email_placeholder": "Эл. почта"
+    },
+    "footer": {
+      "email_address_empty_warning": "Введите вашу эл. почту.",
+      "email_address_invalid_warning": "Введите действительный адрес электронной почты.",
+      "confirmation": "Спасибо за подписку! Сообщения будут отправлены на ваш адрес.",
+      "email_placeholder": "Эл. почта",
+      "submit": "Подписаться",
+      "follow_us": "О нас",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "twitter": "Twitter"
+    }
+  },
+  "navigation": {
+    "general": {
+      "login": "Войти",
+      "register": "Зарегистрироваться",
+      "my_account": "Мой аккаунт",
+      "my_orders": "Мои заказы",
+      "address_book": "Список адресов",
+      "log_out": "Выход",
+      "search_placeholder": "Поиск"
+    }
+  },
+  "product": {
+    "product_detail": {
+      "sold": "Объем реализации {{ count }}",
+      "off": "{{ count }}% скидки",
+      "qty": "Кол-во",
+      "product_description": "Описание о товаре",
+      "add_to_cart": "Добавить в корзину",
+      "sold_out": "Распродано",
+      "buy_now": "Немедленно купить",
+      "added_to_cart_successfully": "Товар успешно добавлен в корзину.",
+      "view_product_detail": "Узнать больше о товаре",
+      "in_stock": "В запасе {{ count }}",
+      "related_product": "Рекомендуемые товары",
+      "add_to_cart_tips": "Успешное добавление в корзину!",
+      "view_cart": "Просмотр корзины",
+      "proceed_to_checkout": "Провести подсчет"
+    }
+  },
+  "collection": {
+    "collection_detail": {
+      "products": "{{ count }} товаров",
+      "recommend": "Рекомендуемые товары",
+      "low_to_high": "По цене↑",
+      "high_to_low": "По цене↓",
+      "best_selling": "Хиты продаж",
+      "newest": "Новинки",
+      "coming_soon": "Скоро в продажу поступит много новинок,пожалуйста,зайдите позже",
+      "continue_shopping": "Продолжить покупки",
+      "sort_by": "Порядок отображения товаров",
+      "items_per_page": "В каждой странице {{ count }} товаров",
+      "prev": "Предыдущая страница",
+      "next": "Следующая страница",
+      "filter_by": "Фильтры",
+      "confirm": "Подтвердить",
+      "clear_all": "Восстановить"
+    }
+  },
+  "search": {
+    "title": "Результаты поиска",
+    "search_button": "Поиск",
+    "results_tips": "Всего<span class='search__count'>{{ count }}</span>результатов в поиске <span class='dj_skin_product_text search__key'>“{{ key }}”</span>",
+    "no_results": "Нет результатов для поиска <span class='dj_skin_product_text search__key'>“{{ key }}”</span>",
+    "input_to_search": "Введите ключевые слова в строку поиска"
+  }
+}

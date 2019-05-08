@@ -1,0 +1,1498 @@
+[
+  {
+    "字段名": "日语",
+    "general": {
+      "404": {
+        "title": "404ページが存在しません",
+        "subtext_html": "<p>申し訳ございませんが、お探しのページが見つかりません。</p><p><a href=\"/\">買い物を続ける</a></p>"
+      },
+      "accessibility": {
+        "skip_to_content": "コンテンツへジャンプします",
+        "close_modal": "閉じる (esc)",
+        "close": "閉じる",
+        "learn_more": "もっと詳しく"
+      },
+      "meta": {
+        "tags": "\"{{ tags }}\"にマークします",
+        "page": "第{{ page }}ページ\n"
+      },
+      "pagination": {
+        "previous": "前のページ",
+        "next": "次のページ"
+      },
+      "social": {
+        "share_on_facebook": "Share",
+        "share_on_twitter": "Tweet",
+        "share_on_pinterest": "Pin it",
+        "alt_text": {
+          "share_on_facebook": "Share on Facebook",
+          "share_on_twitter": "Tweet on Twitter",
+          "share_on_pinterest": "Pin on Pinterest"
+        }
+      },
+      "newsletter_form": {
+        "newsletter_email": "メールアドレスを入力してください。",
+        "newsletter_confirmation": "ご購読いただき、ありがとうございました！ お客様のE-メールにメッセージをお送りします。",
+        "submit": "購読する",
+        "email_address_empty_warning": "メールアドレスを入力してください。",
+        "email_address_invalid_warning": "有効なメールアドレスを入力してください。"
+      },
+      "search": {
+        "no_results_html": "<span class='dj_skin_product_text search__key'>\\\"{{ terms }}\\\"</span> に一致する商品は見つかりませんでした。",
+        "results_for_html": "\"{{ terms }}\"の検索結果は次のとおりです：",
+        "title": "検索",
+        "placeholder": "私たちの店を検索してください",
+        "submit": "検索",
+        "result_count": {
+          "one": "{{ count }}件の結果があります",
+          "other": "{{ count }}件の結果があります"
+        }
+      },
+      "drawers": {
+        "navigation": "サイトナビゲーション",
+        "close_menu": "メニューを閉じます",
+        "expand_submenu": "サブメニューを展開します",
+        "collapse_submenu": "サブメニューを折り畳みます"
+      }
+    },
+    "collections": {
+      "general": {
+        "catalog_title": "目次",
+        "all_of_collection": "全て見ます",
+        "view_all_products_html": "すべての<br> {{ count }}件の商品レビューを見ます",
+        "see_more": "もっと表示します",
+        "see_less": "少なく表示します",
+        "no_matches": "申し訳ありませんが、このアルバムに商品はありません。"
+      },
+      "sorting": {
+        "title": "並べ替え",
+        "featured": "推薦",
+        "price_ascending": "低価格から高価格まで",
+        "price_descending": "高価格から低価額まで",
+        "newest": "新発売"
+      },
+      "filters": {
+        "title_tags": "商品を選択します",
+        "all_tags": "すべての商品"
+      }
+    },
+    "products": {
+      "general": {
+        "save_html": "{{ saved_amount }}円節約します",
+        "collection_return": "戻る{{ collection }}",
+        "next_product": "次: {{ title }}",
+        "sale_price": "売価",
+        "regular_price": "元の価格",
+        "from_text_html": "{{ price }}円から",
+        "related_products": "売り切れ"
+      },
+      "product": {
+        "stock_label": "{{ count }}個の在庫があります",
+        "sold_out": "売り切れ",
+        "unavailable": "商品をカートに入れる",
+        "quantity": "数量",
+        "add_to_cart": "商品をカートに入れる",
+        "preorder": "予約注文",
+        "buy_now": "今すぐ購入",
+        "added_to_cart_successfully": "カートに追加しました"
+      }
+    },
+    "home_page": {
+      "onboarding": {
+        "product_title": "商品の例",
+        "product_description": "このエリアはあなたの商品の詳しい情報を説明するのに使います。顧客に製品の外観、雰囲気、スタイルを伝えます。まだ商品の色、素材、サイズ、生産地などの情報も追加できます。",
+        "collection_title": "シリーズ商品の例",
+        "no_content": "このセクションに今の段階ではコンテンツが含まれていません。ツールバーを使ってコンテンツを追加します。"
+      }
+    },
+    "layout": {
+      "footer": {
+        "social_platform": "{{ platform }}の{{ name }}"
+      }
+    },
+    "sections": {
+      "map": {
+        "get_directions": "リンクを取得します",
+        "address_error": "住所検索エラー",
+        "address_no_results": "住所が見つかりませんでした",
+        "address_query_limit_html": "Google APIの使用制限を超えました。 <a href=\"https://developers.google.com/maps/premium/usage-limits\">高級なプログラム</a>にアップグレードすることを検討してください。",
+        "auth_error_html": "Googleマップアカウントに問題があります。 <a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\"> JavaScript API </a>と<a href = \"https://developers.google .com / maps / documentation / geocoding / get-api-key \">API </a>ジオコーディングのアプリ権限を作成して使用します。"
+      }
+    },
+    "date_formats": {
+      "month_day_year": "％B％d，％Y"
+    },
+    "navigation": {
+      "general": {
+        "login": "新規取得",
+        "register": "登録",
+        "my_account": "マイアカウント",
+        "my_orders": "注文履歴",
+        "address_book": "アドレス帳",
+        "log_out": "ログアウト",
+        "search_placeholder": "検索..."
+      }
+    },
+    "": ""
+  },
+  {
+    "字段名": "俄语",
+    "general": {
+      "404": {
+        "title": "Страница 404 не найдена",
+        "subtext_html": "<p>Извините,страница не найдена.</p><p><a href=\"/\">Продолжить покупки</a></p>"
+      },
+      "accessibility": {
+        "skip_to_content": "Перейти к контенту \n",
+        "close_modal": "Закрыть (esc)",
+        "close": "Закрыть",
+        "learn_more": "Подробнее узнать"
+      },
+      "meta": {
+        "tags": "С отметкой “{{ tags }}”",
+        "page": "Страница {{ page }}"
+      },
+      "pagination": {
+        "previous": "Предыдущая страница",
+        "next": "Следующая страница"
+      },
+      "social": {
+        "share_on_facebook": "Share",
+        "share_on_twitter": "Tweet",
+        "share_on_pinterest": "Pin it",
+        "alt_text": {
+          "share_on_facebook": "Share on Facebook",
+          "share_on_twitter": "Tweet on Twitter",
+          "share_on_pinterest": "Pin on Pinterest"
+        }
+      },
+      "newsletter_form": {
+        "newsletter_email": "Введите вашу эл. почту.",
+        "newsletter_confirmation": "Спасибо за подписку! Сообщения будут отправлены на ваш адрес.",
+        "submit": "Подписаться",
+        "email_address_empty_warning": "Введите вашу эл. почту.",
+        "email_address_invalid_warning": "Введите действительный адрес электронной почты."
+      },
+      "search": {
+        "no_results_html": "Нет результатов для поиска <span class='dj_skin_product_text search__key'>\\\"{{ terms }}\\\"</span>",
+        "results_for_html": "Ваш поиск \"{{ terms }} \" показал следующее:",
+        "title": "Поиск",
+        "placeholder": "Искать наш магазин",
+        "submit": "Поиск",
+        "result_count": {
+          "one": "{{ count }} результатов",
+          "other": "{{ count }} результатов"
+        }
+      },
+      "drawers": {
+        "navigation": "Навигация по сайту",
+        "close_menu": "Закрыть меню",
+        "expand_submenu": "Развернуть подменю",
+        "collapse_submenu": "Свернуть подменю"
+      }
+    },
+    "collections": {
+      "general": {
+        "catalog_title": "Каталог",
+        "all_of_collection": "Показать все",
+        "view_all_products_html": "Просмотр всех <br>{{ count }} товаров",
+        "see_more": "Показать больше",
+        "see_less": "Показать меньше",
+        "no_matches": "К сожалению, в этой коллекции нет товаров"
+      },
+      "sorting": {
+        "title": "Последовательность",
+        "featured": "Рекомендуемые",
+        "price_ascending": "Цена, от низкой до высокой",
+        "price_descending": "Цена, от высокой до низкой",
+        "newest": "Новые товары"
+      },
+      "filters": {
+        "title_tags": "Отбор",
+        "all_tags": "Все товары"
+      }
+    },
+    "products": {
+      "general": {
+        "save_html": "Сэкономить {{ saved_amount }}",
+        "collection_return": "Вернуться к {{ collection }}",
+        "next_product": "Следующее: {{ title }}",
+        "sale_price": "Цена",
+        "regular_price": "Первоначальная цена",
+        "from_text_html": "от {{ price }}",
+        "related_products": "Вам также может понравиться"
+      },
+      "product": {
+        "stock_label": "В наличии {{ count }}",
+        "sold_out": "Распродано",
+        "unavailable": "Добавить в корзину",
+        "quantity": "Кол-во",
+        "add_to_cart": "Добавить в корзину",
+        "preorder": "Предварительный заказ",
+        "buy_now": "Немедленно купить",
+        "added_to_cart_successfully": "Товар успешно добавлен в корзину."
+      }
+    },
+    "home_page": {
+      "onboarding": {
+        "product_title": "Примеры товаров",
+        "product_description": "В данном секторе приведена подробная информация о ваших товарах. Ознакомьте клиентов с внешним видом, ощущениями и стилями ваших товаров. Также можно добавить информацию о цвете, используемых материалах, размерах и месте их происхождения.",
+        "collection_title": "Примеры коллекций",
+        "no_content": "В данный момент этот раздел не содержит никакого контента. Добавьте контент в этот раздел с помощью панели инструментов."
+      }
+    },
+    "layout": {
+      "footer": {
+        "social_platform": "{{ name }} {{ platform }}"
+      }
+    },
+    "sections": {
+      "map": {
+        "get_directions": "Получить канал",
+        "address_error": "Ошибка поиска адреса",
+        "address_no_results": "Не найден данный адрес",
+        "address_query_limit_html": "Вы превысили лимит использования Google API. Рассмотрите возможность обновления до <a href=\"https://developers.google.com/maps/premium/usage-limits\" > высший план< / a>.",
+        "auth_error_html": "Возникла проблема с вашей учетной записью Google Maps. Создать и включить <a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">JavaScript API</a> и <a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\"> API геокодирование </A> полномочия app"
+      }
+    },
+    "date_formats": {
+      "month_day_year": "％B％d，％Y"
+    },
+    "navigation": {
+      "general": {
+        "login": "Войти",
+        "register": "Зарегистрироваться",
+        "my_account": "Мой аккаунт",
+        "my_orders": "Мои заказы",
+        "address_book": "Список адресов",
+        "log_out": "Выход",
+        "search_placeholder": "Поиск"
+      }
+    },
+    "": ""
+  },
+  {
+    "字段名": "西班牙语",
+    "general": {
+      "404": {
+        "title": "404 Página no encontrada",
+        "subtext_html": "<p>Perdón, la página que usted busca no se puede encontrar.</p><p><a href=\"/\">Seguir comprando</a></p>"
+      },
+      "accessibility": {
+        "skip_to_content": "Saltar al contenido",
+        "close_modal": "Cerrar (esc)",
+        "close": "Cerrar",
+        "learn_more": "Conocer más"
+      },
+      "meta": {
+        "tags": "Marcar como \"{{ tags }}\"",
+        "page": "Página {{ page }}"
+      },
+      "pagination": {
+        "previous": "Página anterior",
+        "next": "Página siguiente"
+      },
+      "social": {
+        "share_on_facebook": "Share",
+        "share_on_twitter": "Tweet",
+        "share_on_pinterest": "Pin it",
+        "alt_text": {
+          "share_on_facebook": "Share on Facebook",
+          "share_on_twitter": "Tweet on Twitter",
+          "share_on_pinterest": "Pin on Pinterest"
+        }
+      },
+      "newsletter_form": {
+        "newsletter_email": "Por favor introduzca su dirección de correo electrónico",
+        "newsletter_confirmation": "¡Gracias por su suscripción! Enviaremos mensajes a su correo electrónico.",
+        "submit": "Suscribirse",
+        "email_address_empty_warning": "Por favor introduzca su dirección de correo electrónico",
+        "email_address_invalid_warning": "Por favor introduzca la dirección de correo electrónico válida"
+      },
+      "search": {
+        "no_results_html": "Su búsqueda<span class='dj_skin_product_text search__key'>\\\"{{ terms }}\\\"</span>no tiene resultados.",
+        "results_for_html": "A continuación, son los resultados de búsqueda para “{{ terms }}”:",
+        "title": "Buscar",
+        "placeholder": "Buscar en nuestra tienda",
+        "submit": "Buscar",
+        "result_count": {
+          "one": "{{ count }} resultado",
+          "other": "{{ count }} resultado (s)"
+        }
+      },
+      "drawers": {
+        "navigation": "Navegabilidad Web",
+        "close_menu": "Cerrar el menú",
+        "expand_submenu": "Desplegar el submenú",
+        "collapse_submenu": "Plegar el submenú"
+      }
+    },
+    "collections": {
+      "general": {
+        "catalog_title": "Directorio",
+        "all_of_collection": "Ver todo",
+        "view_all_products_html": "Ver todos <br>{{ count }} artículo (s)",
+        "see_more": "Mostrar más",
+        "see_less": "Mostrar menos",
+        "no_matches": "Lo sentimos, no hay artículos en este álbum."
+      },
+      "sorting": {
+        "title": "Ordenar",
+        "featured": "Recomendado",
+        "price_ascending": "Precio, de bajo a alto",
+        "price_descending": "Precio, de alto a bajo",
+        "newest": "Recién llegado"
+      },
+      "filters": {
+        "title_tags": "Filtrar",
+        "all_tags": "Todos los artículos"
+      }
+    },
+    "products": {
+      "general": {
+        "save_html": "Ahorrar {{ saved_amount }}",
+        "collection_return": "Regresar a {{ collection }}",
+        "next_product": "Siguiente: {{ title }}",
+        "sale_price": "Precio",
+        "regular_price": "Precio original",
+        "from_text_html": "Desde {{ price }}",
+        "related_products": "Agotado"
+      },
+      "product": {
+        "stock_label": "{{ count }} inventario (s)",
+        "sold_out": "Agotado",
+        "unavailable": "Añadir a la cesta",
+        "quantity": "Cantidad",
+        "add_to_cart": "Añadir a la cesta",
+        "preorder": "Comprar por adelantado",
+        "buy_now": "Comprar ya",
+        "added_to_cart_successfully": "Añadido a la cesta exitosamente"
+      }
+    },
+    "home_page": {
+      "onboarding": {
+        "product_title": "Artículo de muestra",
+        "product_description": "Esta área se utiliza para describir los detalles de su artículo. Muestre el aspecto, el sentimiento y el estilo del producto. También puede añadir la información como color, material, tamaño y lugar de origen.",
+        "collection_title": "Colección de muestra",
+        "no_content": "Esta área no contiene ningún contenido ahora. Utilice la barra de herramienta para agregar contenido."
+      }
+    },
+    "layout": {
+      "footer": {
+        "social_platform": "{{ name }} de {{ platform }}"
+      }
+    },
+    "sections": {
+      "map": {
+        "get_directions": "Obtener rutas",
+        "address_error": "Error de encontrar direcciones",
+        "address_no_results": "No encontré esta dirección",
+        "address_query_limit_html": "Ha superado el límite de uso de API de Google. Considere actualizar al <a href=\"https://developers.google.com/maps/premium/usage-limits\">plan avanzado</a>.",
+        "auth_error_html": "Descubrió un problema con su cuenta de Google Maps. Cree y habilite <a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">JavaScript API</a>y el permiso de la app de <a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\">API de geocodificación</a>."
+      }
+    },
+    "date_formats": {
+      "month_day_year": "％B％d，％Y"
+    },
+    "navigation": {
+      "general": {
+        "login": "Iniciar sesión",
+        "register": "Registrarse",
+        "my_account": "Mi cuenta",
+        "my_orders": "Mis pedidos",
+        "address_book": "Libreta de direcciones",
+        "log_out": "Cerrar sesión",
+        "search_placeholder": "Buscar…"
+      }
+    },
+    "": ""
+  },
+  {
+    "字段名": "葡萄牙语",
+    "general": {
+      "404": {
+        "title": "404 página não encontrada",
+        "subtext_html": "<p>Desculpe, a página que procura não tenha sido encontrada.</p><p><a href=\"/\">Continuar as compras</a></p>"
+      },
+      "accessibility": {
+        "skip_to_content": "Saltar para conteudo",
+        "close_modal": "Fechar (esc)",
+        "close": "Fechar",
+        "learn_more": "Saber mais"
+      },
+      "meta": {
+        "tags": "Marcado\"{{ tags }}\"",
+        "page": "Página{{ pags }}"
+      },
+      "pagination": {
+        "previous": "Página anterior",
+        "next": "Página seguinte"
+      },
+      "social": {
+        "share_on_facebook": "Share",
+        "share_on_twitter": "Tweet",
+        "share_on_pinterest": "Pin it",
+        "alt_text": {
+          "share_on_facebook": "Share on Facebook",
+          "share_on_twitter": "Tweet on Twitter",
+          "share_on_pinterest": "Pin on Pinterest"
+        }
+      },
+      "newsletter_form": {
+        "newsletter_email": "Introduza o seu endereço de e-mail",
+        "newsletter_confirmation": "Obrigada pela sua subscrição. Enviaremos mensagens para o seu e-mail.",
+        "submit": "Subscrever",
+        "email_address_empty_warning": "Introduza o seu endereço de e-mail",
+        "email_address_invalid_warning": "Introduza um endereço de e-mail válido"
+      },
+      "search": {
+        "no_results_html": "<span class='dj_skin_product_text search__key'>\\\"{{ terms }}\\\"</span>que você procurou não tem resultado",
+        "results_for_html": "O \"{{ terms }}\" que procura devolve os resultados do seguinte: \n",
+        "title": "Pesquisar",
+        "placeholder": "Revistar a nossa loja",
+        "submit": "Pesquisar",
+        "result_count": {
+          "one": "{{ count }} resultados",
+          "other": "{{ count }} resultados"
+        }
+      },
+      "drawers": {
+        "navigation": "Navegação no site",
+        "close_menu": "Fechar o menu",
+        "expand_submenu": "Expandir o submenu",
+        "collapse_submenu": "Colapsar o submenu"
+      }
+    },
+    "collections": {
+      "general": {
+        "catalog_title": "Catálogo",
+        "all_of_collection": "Ver tudo",
+        "view_all_products_html": "Ver todos os <br>{{ count }} produtos",
+        "see_more": "Mostrar mais",
+        "see_less": "Mostrar menos",
+        "no_matches": "Desculpe, não há produtos nesta coleção."
+      },
+      "sorting": {
+        "title": "Ordenar",
+        "featured": "Recomendação",
+        "price_ascending": "Preço, de baixo a alto",
+        "price_descending": "Preço, de alto a baixo",
+        "newest": "Novo chegado"
+      },
+      "filters": {
+        "title_tags": "Filtro",
+        "all_tags": "Todos os produtos"
+      }
+    },
+    "products": {
+      "general": {
+        "save_html": "Poupe {{ saved_amount }}",
+        "collection_return": "De volta a {{ collection }}",
+        "next_product": "Ptulo: {{ title }}",
+        "sale_price": "Preço de venda",
+        "regular_price": "Preço original",
+        "from_text_html": "A partir de {{ price }}",
+        "related_products": "Esgotado"
+      },
+      "product": {
+        "stock_label": "{{ count }} em estoque",
+        "sold_out": "Esgotado",
+        "unavailable": "Adiciona ao carrinho de compras",
+        "quantity": "Quantidade",
+        "add_to_cart": "Adiciona ao carrinho de compras",
+        "preorder": "Pré-ordem",
+        "buy_now": "Compra imediata",
+        "added_to_cart_successfully": "Adicionar ao carrinho de compras com sucesso"
+      }
+    },
+    "home_page": {
+      "onboarding": {
+        "product_title": "Produto de exemplo",
+        "product_description": "Esta área é usada para descrever os detalhes do seu oroduto. Indique aos clientes sobre a aparência, a sensação e o estilo do seu produto. Podem também ser aditadas informações como a cor, o material, as dimensões e o local de produção.",
+        "collection_title": "Recolha de exemplos",
+        "no_content": "Esta secção não inclui actualmente qualquer conteúdo. Use a barra de ferramentas para adicionar conteúdo."
+      }
+    },
+    "layout": {
+      "footer": {
+        "social_platform": "{{ name }} de {{ platform }}"
+      }
+    },
+    "sections": {
+      "map": {
+        "get_directions": "Obter a rota",
+        "address_error": "Erro de localização",
+        "address_no_results": "Não encontrei a morada",
+        "address_query_limit_html": "Excedeu os limites de utilização da API do google. Upgrade para <a href=\"https://developers.google.com/maps/premium/usage-limits\">plano premium</a>.",
+        "auth_error_html": "Encontrei um problema com a sua conta no google maps. Criar e activar o acesso à aplicação de API de geocodificação de <a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">JavaScript API</a> e <a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\">"
+      }
+    },
+    "date_formats": {
+      "month_day_year": "％B％d，％Y"
+    },
+    "navigation": {
+      "general": {
+        "login": "Login",
+        "register": "Registra-se",
+        "my_account": "Minha conta",
+        "my_orders": "Minha encomenda",
+        "address_book": "Lista de endereços",
+        "log_out": "Logout",
+        "search_placeholder": "Pesquisar"
+      }
+    },
+    "": ""
+  },
+  {
+    "字段名": "意大利语",
+    "general": {
+      "404": {
+        "title": "404 pagina non trovata",
+        "subtext_html": "<p>La pagina che stai cercando non esiste.</p><p><a href=\"/\">Continua a fare acquisti</a></p>"
+      },
+      "accessibility": {
+        "skip_to_content": "Vai al contenuto \n",
+        "close_modal": "Chiudi(esc)",
+        "close": "Chiudi",
+        "learn_more": "Per saperne di più"
+      },
+      "meta": {
+        "tags": "Contrassegnato come \"{{ tag }}\"",
+        "page": "Pagina {{ page }}"
+      },
+      "pagination": {
+        "previous": "PREC.",
+        "next": "SUCC."
+      },
+      "social": {
+        "share_on_facebook": "Share",
+        "share_on_twitter": "Tweet",
+        "share_on_pinterest": "Pin it",
+        "alt_text": {
+          "share_on_facebook": "Share on Facebook",
+          "share_on_twitter": "Tweet on Twitter",
+          "share_on_pinterest": "Pin on Pinterest"
+        }
+      },
+      "newsletter_form": {
+        "newsletter_email": "Inserisci il tuo indirizzo email.",
+        "newsletter_confirmation": "Grazie per esserti iscritto! Invieremo notizie al tuo indirizzo email.",
+        "submit": "Iscriviti",
+        "email_address_empty_warning": "Inserisci il tuo indirizzo email.",
+        "email_address_invalid_warning": "Inserisci un indirizzo email valido."
+      },
+      "search": {
+        "no_results_html": "Nessun risultato per la tua ricerca di <span class='dj_skin_product_text search__key'>\"{{ key }}\"</span>",
+        "results_for_html": "I risultati di ricerca per \"{{ terms }}\" sono i seguenti:",
+        "title": "",
+        "placeholder": "Cerca nel nostro store \n",
+        "submit": "Ricerca",
+        "result_count": {
+          "one": "{{ count }} risultati",
+          "other": "{{ count }} risultati"
+        }
+      },
+      "drawers": {
+        "navigation": "Navigazione del sito",
+        "close_menu": "Chiudi il menù",
+        "expand_submenu": "Espandi il sottomenù",
+        "collapse_submenu": "Comprimi il sottomenù"
+      }
+    },
+    "collections": {
+      "general": {
+        "catalog_title": "Catalogo",
+        "all_of_collection": "Visualizza tutti",
+        "view_all_products_html": "Visualizza tutti <br>{{ count }} i prodotti",
+        "see_more": "Mostra di più",
+        "see_less": "Mostra di meno",
+        "no_matches": "Siamo spiacenti, non ci sono prodotti in questa collezione"
+      },
+      "sorting": {
+        "title": "Ordina per",
+        "featured": "In primo piano",
+        "price_ascending": "Prezzo, da basso ad alto",
+        "price_descending": "Prezzo, da alto a basso",
+        "newest": "Nuovi arrivi"
+      },
+      "filters": {
+        "title_tags": "Filtro",
+        "all_tags": "Tutti i prodotti"
+      }
+    },
+    "products": {
+      "general": {
+        "save_html": "Risparmi {{ saved_amount }}",
+        "collection_return": "Torna a {{ collection }}",
+        "next_product": "Prossimo: {{ title }}",
+        "sale_price": "Prezzo di vendita",
+        "regular_price": "Prezzo originale",
+        "from_text_html": "da {{ price }}",
+        "related_products": "Ti potrebbero interessare anche"
+      },
+      "product": {
+        "stock_label": "{{ count }} in magazzino",
+        "sold_out": "Esauriti",
+        "unavailable": "Non disponibile",
+        "quantity": "Quantità",
+        "add_to_cart": "Aggiungi al carrello",
+        "preorder": "Pre-ordine",
+        "buy_now": "Acquista ora",
+        "added_to_cart_successfully": "Aggiunto al carrello"
+      }
+    },
+    "home_page": {
+      "onboarding": {
+        "product_title": "Esempio di prodotto",
+        "product_description": "Quest'area è dedicata alla descrizione dei dettagli del tuo prodotto. Racconta l'aspetto, le caratteristiche e lo stile del tuo prodotto ai clienti. Aggiungi dettagli su colore, materiali, dimensioni e provenienza del prodotto.",
+        "collection_title": "Esempio di collezione",
+        "no_content": "Al momento questa sezione non ha nessun contenuto. Aggiungi contenuti a questa sezione usando la barra laterale."
+      }
+    },
+    "layout": {
+      "footer": {
+        "social_platform": "{{ name }} di {{ platform }}"
+      }
+    },
+    "sections": {
+      "map": {
+        "get_directions": "Ottieni percorsi",
+        "address_error": "Errore di ricerca dell'indirizzo",
+        "address_no_results": "Nessun risultato per quell'indirizzo",
+        "address_query_limit_html": "Hai superato il limite di utilizzo dell'API di Google. Potresti considerare di aderire al <a href=\"https://developers.google.com/maps/premium/usage-limits\"> Piano Premium </a>.",
+        "auth_error_html": "Si è verificato un problema durante l'autenticazione del tuo account Google Maps. crea e autorizza l'accesso API al Geocoding </a> della tua app, facendo riferimento a <a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\"> API JavaScript </a> e <a \nhref=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\">."
+      }
+    },
+    "date_formats": {
+      "month_day_year": "%b %d, %Y"
+    },
+    "navigation": {
+      "general": {
+        "login": "Login",
+        "register": "Registrati",
+        "my_account": "Il mio account",
+        "my_orders": "I miei ordini",
+        "address_book": "Rubrica",
+        "log_out": "Logout",
+        "search_placeholder": "Cerca…"
+      }
+    },
+    "": ""
+  },
+  {
+    "字段名": "韩语",
+    "general": {
+      "404": {
+        "title": "404 없는 페이지입니다.",
+        "subtext_html": "<p>죄송합니다. 찾고있는 페이지를 검색할 수 없습니다.</p><p><a href=\"/\">계속 쇼핑</a></p>"
+      },
+      "accessibility": {
+        "skip_to_content": "내용에로 이동",
+        "close_modal": "닫기 (esc)",
+        "close": "닫기",
+        "learn_more": "검색하신 “{{ terms }}” 되돌아가기 결과는 다음과 같습니다."
+      },
+      "meta": {
+        "tags": "“{{ tags }}”로 표시하기",
+        "page": "제{{ page }}페이지"
+      },
+      "pagination": {
+        "previous": "이전",
+        "next": "다음"
+      },
+      "social": {
+        "share_on_facebook": "Share",
+        "share_on_twitter": "Tweet",
+        "share_on_pinterest": "Pin it",
+        "alt_text": {
+          "share_on_facebook": "Share on Facebook",
+          "share_on_twitter": "Tweet on Twitter",
+          "share_on_pinterest": "Pin on Pinterest"
+        }
+      },
+      "newsletter_form": {
+        "newsletter_email": "고객님의 이메일 주소를 입력하십시오.",
+        "newsletter_confirmation": "구독해 주셔서 감사합니다. 고객님의 이메일 주소로 관련 정보를 보내드리겠습니다.",
+        "submit": "구독하기",
+        "email_address_empty_warning": "고객님의 이메일 주소를 입력하십시오.",
+        "email_address_invalid_warning": "정확한 이메일 주소를 입력하십시오."
+      },
+      "search": {
+        "no_results_html": "고객님이 입력한 <span class='dj_skin_product_text search__key'>“{{ key }}”</span>에 대응되는 검색결과를 찾을 수 없습니다.",
+        "results_for_html": "검색하신 “{{ terms }}” 되돌아가기 결과는 다음과 같습니다.",
+        "title": "검색",
+        "placeholder": "우리 매장 검색하기 \n",
+        "submit": "검색",
+        "result_count": {
+          "one": "{{ count }}개 결과",
+          "other": "{{ count }}개 결과"
+        }
+      },
+      "drawers": {
+        "navigation": "사이트 둘러보기",
+        "close_menu": "메뉴 닫기",
+        "expand_submenu": "하위 ���뉴 보기",
+        "collapse_submenu": "하위 메뉴 접기"
+      }
+    },
+    "collections": {
+      "general": {
+        "catalog_title": "목록",
+        "all_of_collection": "전체 보기",
+        "view_all_products_html": "전체 보기 <br>{{ count }}개 상품",
+        "see_more": "자세히 보기",
+        "see_less": "자세히 보기",
+        "no_matches": "죄송합니다. 상품이 없는 앨범입니다."
+      },
+      "sorting": {
+        "title": "순서 배열",
+        "featured": "추천",
+        "price_ascending": "가격, 저가에서 고가로",
+        "price_descending": "가격, 고가에서 저가로",
+        "newest": "최신목록"
+      },
+      "filters": {
+        "title_tags": "선별",
+        "all_tags": "전체 상품"
+      }
+    },
+    "products": {
+      "general": {
+        "save_html": "{{ saved_amount }} 절감",
+        "collection_return": "{{ collection }}로 돌아가기",
+        "next_product": "다음: {{ title }}",
+        "sale_price": "판매가",
+        "regular_price": "원래 가격",
+        "from_text_html": "{{ price }}로부터",
+        "related_products": "상품이 매진되었습니다."
+      },
+      "product": {
+        "stock_label": "{{ count }}개 재고",
+        "sold_out": "수량",
+        "unavailable": "장바구니에 담기",
+        "quantity": "수량",
+        "add_to_cart": "즉시 구매하기",
+        "preorder": "장바구니에 추가되었습니다.",
+        "buy_now": "즉시 구매하기",
+        "added_to_cart_successfully": "장바구니에 추가되었습니다."
+      }
+    },
+    "home_page": {
+      "onboarding": {
+        "product_title": "추천 상품",
+        "product_description": "이 공간은 상품의 자세한 정보를 묘사하는 데 사용됩니다. 고객에게 상품의 외관, 느낌, 제품 스타일 등을 설명해 드립니다. 컬러, 소재, 사이즈, 생산지 등 정보를 추가할 수 있습니다.",
+        "collection_title": "예시 앨범",
+        "no_content": "이 공간은 현재 아무 내용도 포함하지 않습니다. 도구모음줄을 이용하여 내용을 추가합니다."
+      }
+    },
+    "layout": {
+      "footer": {
+        "social_platform": "{{ platform }}의 {{ name }}"
+      }
+    },
+    "sections": {
+      "map": {
+        "get_directions": "경로 찾기",
+        "address_error": "잘못된 주소입니다.",
+        "address_no_results": "해당 주소를 찾지 못했습니다.",
+        "address_query_limit_html": "구글 API의 사용 한도를 초과하였습니다. 업그레이드 하시려면 <a href=\"https://developers.google.com/maps/premium/usage-limits\">고급계획</a>",
+        "auth_error_html": "구글맵 계정에 오류가 발생했습니다. 새로 만들기 및 사용<a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">JavaScript API</a> 및 <a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\"> 지오코딩 API</a>의 app 권한."
+      }
+    },
+    "date_formats": {
+      "month_day_year": "％B％d，％Y"
+    },
+    "navigation": {
+      "general": {
+        "login": "로그인",
+        "register": "회원가입",
+        "my_account": "나의 계정",
+        "my_orders": "나의 주문",
+        "address_book": "주소록",
+        "log_out": "로그아웃",
+        "search_placeholder": "검색하기 ..."
+      }
+    },
+    "": ""
+  },
+  {
+    "字段名": "英语",
+    "general": {
+      "404": {
+        "title": "404 Page Not Found",
+        "subtext_html": "<p>The page you were looking for does not exist. </p><p><a href=\"/\">Continue shopping</a></p>"
+      },
+      "accessibility": {
+        "skip_to_content": "Skip to content",
+        "close_modal": "Close (esc)",
+        "close": "Close",
+        "learn_more": "Learn more"
+      },
+      "meta": {
+        "tags": "Tagged \"{{ tags }}\"",
+        "page": "Page {{ page }}"
+      },
+      "pagination": {
+        "previous": "Previous",
+        "next": "Next"
+      },
+      "social": {
+        "share_on_facebook": "Share",
+        "share_on_twitter": "Tweet",
+        "share_on_pinterest": "Pin it",
+        "alt_text": {
+          "share_on_facebook": "Share on Facebook",
+          "share_on_twitter": "Tweet on Twitter",
+          "share_on_pinterest": "Pin on Pinterest"
+        }
+      },
+      "newsletter_form": {
+        "newsletter_email": "Enter your email",
+        "newsletter_confirmation": "Thanks for subscribing",
+        "submit": "Subscribe",
+        "email_address_empty_warning": "Please enter your email address.",
+        "email_address_invalid_warning": "Please enter a valid email address."
+      },
+      "search": {
+        "no_results_html": "Your search for \"{{ terms }}\" did not yield any results.",
+        "results_for_html": "Your search for \"{{ terms }}\" revealed the following:",
+        "title": "Search",
+        "placeholder": "Search our store",
+        "submit": "Search",
+        "result_count": {
+          "one": "{{ count }} result",
+          "other": "{{ count }} results"
+        }
+      },
+      "drawers": {
+        "navigation": "Site navigation",
+        "close_menu": "Close menu",
+        "expand_submenu": "Expand submenu",
+        "collapse_submenu": "Collapse submenu"
+      }
+    },
+    "collections": {
+      "general": {
+        "catalog_title": "Catalog",
+        "all_of_collection": "View all",
+        "view_all_products_html": "View all<br>{{ count }} products",
+        "see_more": "Show more",
+        "see_less": "Show less",
+        "no_matches": "Sorry, there are no products in this collection."
+      },
+      "sorting": {
+        "title": "Sort",
+        "featured": "Featured",
+        "price_ascending": "Price, low to high",
+        "price_descending": "Price, high to low",
+        "newest": "Newest in"
+      },
+      "filters": {
+        "title_tags": "Filter",
+        "all_tags": "All products"
+      }
+    },
+    "products": {
+      "general": {
+        "save_html": "Save {{ saved_amount }}",
+        "collection_return": "Back to {{ collection }}",
+        "next_product": "Next: {{ title }}",
+        "sale_price": "Sale price",
+        "regular_price": "Regular price",
+        "from_text_html": "from {{ price }}",
+        "related_products": "You may also like"
+      },
+      "product": {
+        "stock_label": "{{ count }} in stock",
+        "sold_out": "Sold Out",
+        "unavailable": "Unavailable",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "preorder": "Pre-order",
+        "buy_now": "Buy now",
+        "added_to_cart_successfully": "Added to cart successfully"
+      }
+    },
+    "home_page": {
+      "onboarding": {
+        "product_title": "Example product",
+        "product_description": "This area is used to describe your product’s details. Tell customers about the look, feel, and style of your product. Add details on color, materials used, sizing, and where it was made.",
+        "collection_title": "Example collection",
+        "no_content": "This section doesn’t currently include any content. Add content to this section using the sidebar."
+      }
+    },
+    "layout": {
+      "footer": {
+        "social_platform": "{{ name }} on {{ platform }}"
+      }
+    },
+    "sections": {
+      "map": {
+        "get_directions": "Get directions",
+        "address_error": "Error looking up that address",
+        "address_no_results": "No results for that address",
+        "address_query_limit_html": "You have exceeded the Google API usage limit. Consider upgrading to a <a href=\"https://developers.google.com/maps/premium/usage-limits\">Premium Plan</a>.",
+        "auth_error_html": "There was a problem authenticating your Google Maps account. Create and enable the <a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">JavaScript API</a> and <a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\">Geocoding API</a> permissions of your app."
+      }
+    },
+    "date_formats": {
+      "month_day_year": "%b %d, %Y"
+    },
+    "navigation": {
+      "general": {
+        "login": "",
+        "register": "",
+        "my_account": "",
+        "my_orders": "",
+        "address_book": "",
+        "log_out": "",
+        "search_placeholder": ""
+      }
+    },
+    "": ""
+  },
+  {
+    "字段名": "中文",
+    "general": {
+      "404": {
+        "title": "404 页面不存在",
+        "subtext_html": "<p>您访问的页面不存在</p><p><a href=\"/\">继续购物</a></p>"
+      },
+      "accessibility": {
+        "skip_to_content": "跳转至内容",
+        "close_modal": "关闭（ESC）",
+        "close": "关闭",
+        "learn_more": "了解更多"
+      },
+      "meta": {
+        "tags": "标记为“{{ tags }}”",
+        "page": "第{{ page }}页"
+      },
+      "pagination": {
+        "previous": "上一个",
+        "next": "下一个"
+      },
+      "social": {
+        "share_on_facebook": "Share",
+        "share_on_twitter": "Tweet",
+        "share_on_pinterest": "Pin it",
+        "alt_text": {
+          "share_on_facebook": "Share on Facebook",
+          "share_on_twitter": "Tweet on Twitter",
+          "share_on_pinterest": "Pin on Pinterest"
+        }
+      },
+      "newsletter_form": {
+        "newsletter_email": "输入你的电子邮箱",
+        "newsletter_confirmation": "感谢您的订阅",
+        "submit": "订阅",
+        "email_address_empty_warning": "请输入您的电子邮件地址。",
+        "email_address_invalid_warning": "请输入有效的电子邮件地址。"
+      },
+      "search": {
+        "no_results_html": "您搜索的 “{{ terms }}”没有返回任何结果。",
+        "results_for_html": "您搜索的“{{ terms }}”返回结果如下：",
+        "title": "搜索",
+        "placeholder": "搜索我们的商店",
+        "submit": "搜索",
+        "result_count": {
+          "one": "{{ count }}个结果",
+          "other": "{{ count }}个结果"
+        }
+      },
+      "drawers": {
+        "navigation": "网站导航",
+        "close_menu": "关闭菜单",
+        "expand_submenu": "展开子菜单",
+        "collapse_submenu": "折叠子菜单"
+      }
+    },
+    "collections": {
+      "general": {
+        "catalog_title": "目录",
+        "all_of_collection": "查看全部",
+        "view_all_products_html": "查看全部<br>{{ count }}个商品",
+        "see_more": "显示更多",
+        "see_less": "显示较少",
+        "no_matches": "对不起，此专辑没有商品。"
+      },
+      "sorting": {
+        "title": "排序",
+        "featured": "推荐",
+        "price_ascending": "价格，从低到高",
+        "price_descending": "价格，从高到低",
+        "newest": "最新上架"
+      },
+      "filters": {
+        "title_tags": "筛选",
+        "all_tags": "全部商品"
+      }
+    },
+    "products": {
+      "general": {
+        "save_html": "节省{{ saved_amount }}",
+        "collection_return": "返回{{ collection }}",
+        "next_product": "下一个：{{ title }}",
+        "sale_price": "售价",
+        "regular_price": "原价",
+        "from_text_html": "从{{ price }}",
+        "related_products": "您可能还喜欢"
+      },
+      "product": {
+        "stock_label": "{{ count }}个库存",
+        "sold_out": "售罄",
+        "unavailable": "不可售",
+        "quantity": "数量",
+        "add_to_cart": "添加到购物车",
+        "preorder": "预购",
+        "buy_now": "立即购买",
+        "added_to_cart_successfully": "添加到购物车成功"
+      }
+    },
+    "home_page": {
+      "onboarding": {
+        "product_title": "示例商品",
+        "product_description": "这个区域是用来描述你的商品的详细信息。告诉顾客商品的外观、感觉和产品风格。还可以添加颜色、材料、尺寸和生产地等信息。",
+        "collection_title": "示例专辑",
+        "no_content": "这部分目前不包含任何内容。使用工具条添加内容。"
+      }
+    },
+    "layout": {
+      "footer": {
+        "social_platform": "{{ platform }}的{{ name }}"
+      }
+    },
+    "sections": {
+      "map": {
+        "get_directions": "获取路线",
+        "address_error": "查找地址错误",
+        "address_no_results": "没有找到该地址",
+        "address_query_limit_html": "您已超过谷歌API的使用限制。考虑升级到<a href=\"https://developers.google.com/maps/premium/usage-limits\">高级计划</a>。",
+        "auth_error_html": "发现你的谷歌地图账户有问题。创建并启用<a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">JavaScript API</a>和<a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\">地理编码API</a> 的app权限。"
+      }
+    },
+    "date_formats": {
+      "month_day_year": "％B％d，％Y"
+    },
+    "navigation": {
+      "general": {
+        "login": "",
+        "register": "",
+        "my_account": "",
+        "my_orders": "",
+        "address_book": "",
+        "log_out": "",
+        "search_placeholder": ""
+      }
+    },
+    "": ""
+  },
+  {
+    "字段名": "繁体中文",
+    "general": {
+      "404": {
+        "title": "404 頁面不存在",
+        "subtext_html": "<p>您訪問的頁面不存在</p><p><a href=\"/\">繼續購物</a></p>"
+      },
+      "accessibility": {
+        "skip_to_content": "跳轉至內容",
+        "close_modal": "關閉（ESC）",
+        "close": "關閉",
+        "learn_more": "了解更多"
+      },
+      "meta": {
+        "tags": "標記為“{{ tags }}”",
+        "page": "第{{ page }}頁"
+      },
+      "pagination": {
+        "previous": "上一個",
+        "next": "下一個"
+      },
+      "social": {
+        "share_on_facebook": "Share",
+        "share_on_twitter": "Tweet",
+        "share_on_pinterest": "Pin it",
+        "alt_text": {
+          "share_on_facebook": "Share on Facebook",
+          "share_on_twitter": "Tweet on Twitter",
+          "share_on_pinterest": "Pin on Pinterest"
+        }
+      },
+      "newsletter_form": {
+        "newsletter_email": "輸入你的電子郵箱",
+        "newsletter_confirmation": "感謝您的訂閱",
+        "submit": "訂閱",
+        "email_address_empty_warning": "請輸入您的電子郵件地址。",
+        "email_address_invalid_warning": "請輸入有效的電子郵件地址。"
+      },
+      "search": {
+        "no_results_html": "您搜索的 “{{ terms }}”沒有返回任何結果。",
+        "results_for_html": "您搜索的“{{ terms }}”返回結果如下：",
+        "title": "搜索",
+        "placeholder": "搜索我們的商店",
+        "submit": "搜索",
+        "result_count": {
+          "one": "{{ count }}個結果",
+          "other": "{{ count }}個結果"
+        }
+      },
+      "drawers": {
+        "navigation": "網站導航",
+        "close_menu": "關閉菜單",
+        "expand_submenu": "展開子菜單",
+        "collapse_submenu": "折疊子菜單"
+      }
+    },
+    "collections": {
+      "general": {
+        "catalog_title": "目錄",
+        "all_of_collection": "查看全部",
+        "view_all_products_html": "查看全部<br>{{ count }}個商品",
+        "see_more": "顯示更多",
+        "see_less": "顯示較少",
+        "no_matches": "對不起，此專輯沒有商品。"
+      },
+      "sorting": {
+        "title": "排序",
+        "featured": "推薦",
+        "price_ascending": "價格，從低到高",
+        "price_descending": "價格，從高到低",
+        "newest": "最新上架"
+      },
+      "filters": {
+        "title_tags": "篩選",
+        "all_tags": "全部商品"
+      }
+    },
+    "products": {
+      "general": {
+        "save_html": "節省{{ saved_amount }}",
+        "collection_return": "返回{{ collection }}",
+        "next_product": "下一個：{{ title }}",
+        "sale_price": "售價",
+        "regular_price": "原價",
+        "from_text_html": "從{{ price }}",
+        "related_products": "您可能還喜歡"
+      },
+      "product": {
+        "stock_label": "{{ count }}個庫存",
+        "sold_out": "售罄",
+        "unavailable": "不可售",
+        "quantity": "數量",
+        "add_to_cart": "添加到購物車",
+        "preorder": "預購",
+        "buy_now": "立即購買",
+        "added_to_cart_successfully": "添加到購物車成功"
+      }
+    },
+    "home_page": {
+      "onboarding": {
+        "product_title": "示例商品",
+        "product_description": "這個區域是用來描述你的商品的詳細信息。告訴顧客商品的外觀、感覺和產品風格。還可以添加顏色、材料、尺寸和生產地等信息。",
+        "collection_title": "示例專輯",
+        "no_content": "這部分目前不包含任何內容。使用工具條添加內容。"
+      }
+    },
+    "layout": {
+      "footer": {
+        "social_platform": "{{ platform }}的{{ name }}"
+      }
+    },
+    "sections": {
+      "map": {
+        "get_directions": "獲取路線",
+        "address_error": "查找地址錯誤",
+        "address_no_results": "沒有找到該地址",
+        "address_query_limit_html": "您已超過谷歌API的使用限制。考慮升級到<a href=\"https://developers.google.com/maps/premium/usage-limits\">高級計劃</a>。",
+        "auth_error_html": "發現你的谷歌地圖賬戶有問題。創建並啟用<a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">JavaScript API</a>和<a href=\"https://developers.google .com/maps/documentation/geocoding/get-api-key\">地理編碼API</a> 的app權限。"
+      }
+    },
+    "date_formats": {
+      "month_day_year": "％B％d，％Y"
+    },
+    "navigation": {
+      "general": {
+        "login": "",
+        "register": "",
+        "my_account": "",
+        "my_orders": "",
+        "address_book": "",
+        "log_out": "",
+        "search_placeholder": ""
+      }
+    },
+    "": ""
+  },
+  {
+    "字段名": "泰语",
+    "general": {
+      "404": {
+        "title": "ไม่มีหน้า404",
+        "subtext_html": "<p>ขออภัยค่ะ ไม่พบหน้าที่คุณกำลังค้นหา</p><p><a href=\"/\">ซื้อสินค้าต่อ</a></p>"
+      },
+      "accessibility": {
+        "skip_to_content": "ข้ามไปยังเนื้อหา",
+        "close_modal": "ปิด（ESC）",
+        "close": "ปิด",
+        "learn_more": "เรียนรู้เพิ่มเติม"
+      },
+      "meta": {
+        "tags": "ทำเครื่องหมายเป็น“{{ tags }}”",
+        "page": "หน้าที่{{ page }}"
+      },
+      "pagination": {
+        "previous": "ก่อน",
+        "next": "ถัดไป"
+      },
+      "social": {
+        "share_on_facebook": "Share",
+        "share_on_twitter": "Tweet",
+        "share_on_pinterest": "Pin it",
+        "alt_text": {
+          "share_on_facebook": "Share on Facebook",
+          "share_on_twitter": "Tweet on Twitter",
+          "share_on_pinterest": "Pin on Pinterest"
+        }
+      },
+      "newsletter_form": {
+        "newsletter_email": "โปรดป้อนที่อยู่อีเมลของคุณ",
+        "newsletter_confirmation": "ขอบคุณสำหรับการกดติดตาม",
+        "submit": "กดติดตาม",
+        "email_address_empty_warning": "กรุณากรอกอีเมลแอดเดรสของคุณ",
+        "email_address_invalid_warning": "กรุุณากรอกอีเมลแอดเดรสที่ถูกต้อง"
+      },
+      "search": {
+        "no_results_html": "ค้นหา “{{ terms }}” ไม่พบ",
+        "results_for_html": "ผลลัพธ์การค้นหา“ {{ terms }} ”ของคุณมีดังนี้:",
+        "title": "ค้นหา",
+        "placeholder": "ค้นหาร้านค้าของเรา",
+        "submit": "ค้นหา",
+        "result_count": {
+          "one": "มี{{count }}ผลลัพธ์การ",
+          "other": "มี{{ count }}ผลลัพธ์การ"
+        }
+      },
+      "drawers": {
+        "navigation": "การนำทางเว็บไซต์",
+        "close_menu": "ปิดเมนู",
+        "expand_submenu": "ขยายเมนูย่อย",
+        "collapse_submenu": "ปิดเมนูย่อย"
+      }
+    },
+    "collections": {
+      "general": {
+        "catalog_title": "แคตตาล็อก",
+        "all_of_collection": "ดูทั้งหมด",
+        "view_all_products_html": "ดูสินค้าทั้งหมด<br>{{ count }}รายการ",
+        "see_more": "แสดงเพิ่มเติม",
+        "see_less": "แสดงผลน้อยลง",
+        "no_matches": "ขอโทษที่ไม่มีสินค้าในอัลบั้มนี้"
+      },
+      "sorting": {
+        "title": "จัดเรียงตาม",
+        "featured": "แนะนำ",
+        "price_ascending": "ราคา จากต่ำไปสูง",
+        "price_descending": "ราคา จากสูงไปต่ำ",
+        "newest": "มาใหม่ล่าสุด"
+      },
+      "filters": {
+        "title_tags": "กรองตาม",
+        "all_tags": "สินค้าทั้งหมด"
+      }
+    },
+    "products": {
+      "general": {
+        "save_html": "ประหยัด{{ saved_amount }}",
+        "collection_return": "ส่งคืน{{ collection }}",
+        "next_product": "ถัดไป：{{ title }}",
+        "sale_price": "ราคา",
+        "regular_price": "ราคาปกติ",
+        "from_text_html": "จาก{{ price }}",
+        "related_products": "ท่านอาจชอบ"
+      },
+      "product": {
+        "stock_label": "{{ count }}สินค้าคงคลัง",
+        "sold_out": "ขายหมดแล้ว",
+        "unavailable": "ไม่พร้อมที่จะขาย",
+        "quantity": "จำนวน",
+        "add_to_cart": "ใส่ในรถเข็น",
+        "preorder": "สั่งซื้อล่วงหน้า",
+        "buy_now": "ซื้ื้อเลย",
+        "added_to_cart_successfully": "ใส่ในรถเข็นเรียบร้อยแล้ว"
+      }
+    },
+    "home_page": {
+      "onboarding": {
+        "product_title": "ตัวอย่างสินค้า",
+        "product_description": "พื้นที่นี้ใช้เพื่ออธิบายรายละเอียดของรายการผลิตภัณฑ์ของคุณ ซึ่งสามารถบอกลูกค้าถึงรูปลักษณ์ ความรู้สึกและสไตล์ของผลิตภัณฑ์ และยังสามารถเพิ่มข้อมูลเช่นสี วัสดุ ขนาดและแหล่งผลิต ฯลฯ",
+        "collection_title": "ตัวอย่างอัลบั้ม",
+        "no_content": "ส่วนนี้ยังไม่มีเนื้อหาใดๆในขณะนี้ โปรดใช้แถบเครื่องมือเพื่อเพิ่มเนื้อหาที่ต้องการ"
+      }
+    },
+    "layout": {
+      "footer": {
+        "social_platform": "{{ platform }}ของ{{ name }}"
+      }
+    },
+    "sections": {
+      "map": {
+        "get_directions": "รับรู้เส้นทาง",
+        "address_error": "มีข้อผิดพลาดในที่อยู่ที่ค้นหา",
+        "address_no_results": "ไม่ได้พบที่อยู่นี้",
+        "address_query_limit_html": "คุณได้เกินข้อจำกัดการใช้งานของ Google API แล้ว ลองอัปเกรดเป็น<a href=\"https://developers.google.com/maps/premium/usage-limits\">โปรแกรมขั้นสูง></a>",
+        "auth_error_html": "พบปัญหาเกี่ยวกับบัญชี Google Maps ของคุณ โปรดสร้างและเปิดใช้งาน<a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">JavaScript API</a>และ<a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\">รหัสทางภูมิศาสตร์API</a> ของสิทธิ์แอพลิเคชัน"
+      }
+    },
+    "date_formats": {
+      "month_day_year": "％B％d，％Y"
+    },
+    "navigation": {
+      "general": {
+        "login": "",
+        "register": "",
+        "my_account": "",
+        "my_orders": "",
+        "address_book": "",
+        "log_out": "",
+        "search_placeholder": ""
+      }
+    },
+    "": ""
+  },
+  {
+    "字段名": "法语",
+    "general": {
+      "404": {
+        "title": "404 - Page non trouvée",
+        "subtext_html": "Cette page n'est pas disponible. <a href=\"/\">Retourner au magasinage</a>"
+      },
+      "accessibility": {
+        "skip_to_content": "Passer au contenu",
+        "close_modal": "Fermer (Esc)",
+        "close": "Fermer",
+        "learn_more": "Apprendre plus"
+      },
+      "meta": {
+        "tags": "Mots clés \"{{ tags }}\"",
+        "page": "Page {{ page }}"
+      },
+      "pagination": {
+        "previous": "Précédent",
+        "next": "Suivant"
+      },
+      "social": {
+        "share_on_facebook": "Partager",
+        "share_on_twitter": "Tweeter",
+        "share_on_pinterest": "Épingler",
+        "alt_text": {
+          "share_on_facebook": "Partager sur Facebook",
+          "share_on_twitter": "Tweeter sur Twitter",
+          "share_on_pinterest": "Épingler sur Pinterest"
+        }
+      },
+      "newsletter_form": {
+        "newsletter_email": "Inscrivez-vous à notre infolettre",
+        "newsletter_confirmation": "Merci de vous être inscrit",
+        "submit": "S'inscrire",
+        "email_address_empty_warning": "Veuillez entrer votre adresse e-mail.",
+        "email_address_invalid_warning": "Veuillez entrer une adresse e-mail valide."
+      },
+      "search": {
+        "no_results_html": "Votre recherche pour \"{{ terms }}\" n'a pas généré de résultats.",
+        "results_for_html": "Votre recherche pour \"{{ terms }}\" a généré les résultats suivants:",
+        "title": "Rechercher",
+        "placeholder": "Rechercher dans la boutique",
+        "submit": "Recherche",
+        "result_count": {
+          "one": "{{ count }} résultat",
+          "other": "{{ count }} résultats"
+        }
+      },
+      "drawers": {
+        "navigation": "Navigation",
+        "close_menu": "Fermer le menu",
+        "expand_submenu": "Ouvrir le menu",
+        "collapse_submenu": "Replier le menu"
+      }
+    },
+    "collections": {
+      "general": {
+        "catalog_title": "Catalogue",
+        "all_of_collection": "Tout",
+        "view_all_products_html": "Voir tous les<br>{{ count }} produits",
+        "see_more": "Afficher plus",
+        "see_less": "Voir moins",
+        "no_matches": "Aucun produit ne correspond à votre recherche."
+      },
+      "sorting": {
+        "title": "Appliquer",
+        "featured": "En vedette",
+        "price_ascending": "Prix: faible à élevé",
+        "price_descending": "Prix: élevé à faible",
+        "newest": "Nouvelle arrivée"
+      },
+      "filters": {
+        "title_tags": "Filtrer",
+        "all_tags": "Tous les produits"
+      }
+    },
+    "products": {
+      "general": {
+        "save_html": "Épargnez {{ saved_amount }}",
+        "collection_return": "Retour à {{ collection }}",
+        "next_product": "Suivant: {{ title }}",
+        "sale_price": "Prix réduit",
+        "regular_price": "Prix régulier",
+        "from_text_html": "À partir de {{ price }}",
+        "related_products": "Produits connexes"
+      },
+      "product": {
+        "stock_label": "{{ count }} en stock",
+        "sold_out": "Épuisé",
+        "unavailable": "Non disponible",
+        "quantity": "Quantité",
+        "add_to_cart": "Ajouter au panier",
+        "preorder": "Pré-commander",
+        "buy_now": "Achetez maintenant",
+        "added_to_cart_successfully": "Ajoutez au panier avec succès"
+      }
+    },
+    "home_page": {
+      "onboarding": {
+        "product_title": "Titre du produit",
+        "product_description": "Cette partie est utilisée pour la fiche du produit. Parlez aux clients de l'allure, du ressenti et du style de votre produit. Ajoutez des détails sur la couleur, les matériaux utilisés, le dimensionnement, et où il a été fabriqué.",
+        "collection_title": "Titre de la collection",
+        "no_content": "Cette section ne contient actuellement aucun contenu. Ajoutez-en en utilisant la barre latérale."
+      }
+    },
+    "layout": {
+      "footer": {
+        "social_platform": "{{ name }} sur {{ platform }}"
+      }
+    },
+    "sections": {
+      "map": {
+        "get_directions": "Obtenir des directions",
+        "address_error": "Vous ne trouvez pas cette adresse",
+        "address_no_results": "Aucun résultat pour cette adresse",
+        "address_query_limit_html": "Vous avez dépassé la limite de Google utilisation de l'API. Envisager la mise à niveau à un <a href=\"https://developers.google.com/maps/premium/usage-limits\">régime spécial</a>.",
+        "auth_error_html": "Il y avait un problème authentifier votre compte Google Maps . Créer et activer <a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">l'API JavaScript</a> et <a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\">l'API de géocodage</a> les autorisations de application."
+      }
+    },
+    "date_formats": {
+      "month_day_year": "%d %B, %Y"
+    },
+    "navigation": {
+      "general": {
+        "login": "",
+        "register": "",
+        "my_account": "",
+        "my_orders": "",
+        "address_book": "",
+        "log_out": "",
+        "search_placeholder": ""
+      }
+    },
+    "": ""
+  }
+]
